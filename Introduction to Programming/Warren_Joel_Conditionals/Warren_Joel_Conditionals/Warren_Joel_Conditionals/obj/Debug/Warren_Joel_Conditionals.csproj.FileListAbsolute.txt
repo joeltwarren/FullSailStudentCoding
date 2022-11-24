@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\bin\Debug\Warren_Joel_Conditionals.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\bin\Debug\Warren_Joel_Conditionals.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\bin\Debug\Warren_Joel_Conditionals.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\obj\Debug\Warren_Joel_Conditionals.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\obj\Debug\Warren_Joel_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\obj\Debug\Warren_Joel_Conditionals.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Conditionals\Warren_Joel_Conditionals\obj\Debug\Warren_Joel_Conditionals.pdb
