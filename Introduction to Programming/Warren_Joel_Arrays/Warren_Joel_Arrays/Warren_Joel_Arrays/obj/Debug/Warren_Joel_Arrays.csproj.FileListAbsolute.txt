@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.pdb
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.exe.config
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.exe
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\bin\Debug\Warren_Joel_Arrays.pdb
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.exe
+C:\Users\Joel Warren\Downloads\FullSail\Warren_Joel_Arrays\Warren_Joel_Arrays\Warren_Joel_Arrays\obj\Debug\Warren_Joel_Arrays.pdb
