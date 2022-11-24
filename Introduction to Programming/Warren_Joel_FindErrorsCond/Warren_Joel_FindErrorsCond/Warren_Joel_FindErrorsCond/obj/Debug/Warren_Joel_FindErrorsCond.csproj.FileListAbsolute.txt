@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\bin\Debug\Warren_Joel_FindErrorsCond.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\bin\Debug\Warren_Joel_FindErrorsCond.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\bin\Debug\Warren_Joel_FindErrorsCond.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\obj\Debug\Warren_Joel_FindErrorsCond.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\obj\Debug\Warren_Joel_FindErrorsCond.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\obj\Debug\Warren_Joel_FindErrorsCond.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsCond\Warren_Joel_FindErrorsCond\obj\Debug\Warren_Joel_FindErrorsCond.pdb
