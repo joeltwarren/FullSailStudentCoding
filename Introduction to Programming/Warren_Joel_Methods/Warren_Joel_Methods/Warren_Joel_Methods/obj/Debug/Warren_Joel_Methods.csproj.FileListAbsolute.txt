@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\bin\Debug\Warren_Joel_Methods.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\bin\Debug\Warren_Joel_Methods.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\bin\Debug\Warren_Joel_Methods.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\obj\Debug\Warren_Joel_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\obj\Debug\Warren_Joel_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\obj\Debug\Warren_Joel_Methods.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Methods\Warren_Joel_Methods\obj\Debug\Warren_Joel_Methods.pdb
