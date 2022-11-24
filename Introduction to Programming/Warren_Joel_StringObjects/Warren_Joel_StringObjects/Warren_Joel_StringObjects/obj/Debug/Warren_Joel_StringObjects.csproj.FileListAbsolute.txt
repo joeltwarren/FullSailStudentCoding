@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\bin\Debug\Warren_Joel_StringObjects.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\bin\Debug\Warren_Joel_StringObjects.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\bin\Debug\Warren_Joel_StringObjects.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\obj\Debug\Warren_Joel_StringObjects.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\obj\Debug\Warren_Joel_StringObjects.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\obj\Debug\Warren_Joel_StringObjects.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_StringObjects\Warren_Joel_StringObjects\obj\Debug\Warren_Joel_StringObjects.pdb
