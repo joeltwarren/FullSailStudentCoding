@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\JoelWarren_CE08.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\JoelWarren_CE08.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\JoelWarren_CE08.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\Google.Protobuf.xml
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\obj\Debug\JoelWarren_CE08.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\obj\Debug\JoelWarren_CE08.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\obj\Debug\JoelWarren_CE08.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\obj\Debug\JoelWarren_CE08.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE08\JoelWarren_CE08\obj\Debug\JoelWarren_CE08.pdb
