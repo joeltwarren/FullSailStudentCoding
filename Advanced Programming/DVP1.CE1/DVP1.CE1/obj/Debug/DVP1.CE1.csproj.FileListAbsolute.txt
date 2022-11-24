@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Challenges\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\bin\Debug\DVP1.CE1.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\DVP1.CE1\DVP1.CE1\obj\Debug\DVP1.CE1.pdb
