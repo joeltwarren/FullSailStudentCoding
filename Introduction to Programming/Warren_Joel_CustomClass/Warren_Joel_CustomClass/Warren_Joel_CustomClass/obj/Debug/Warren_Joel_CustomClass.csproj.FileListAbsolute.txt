@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\bin\Debug\Warren_Joel_CustomClass.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\bin\Debug\Warren_Joel_CustomClass.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\bin\Debug\Warren_Joel_CustomClass.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\obj\Debug\Warren_Joel_CustomClass.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\obj\Debug\Warren_Joel_CustomClass.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\obj\Debug\Warren_Joel_CustomClass.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_CustomClass\Warren_Joel_CustomClass\obj\Debug\Warren_Joel_CustomClass.pdb
