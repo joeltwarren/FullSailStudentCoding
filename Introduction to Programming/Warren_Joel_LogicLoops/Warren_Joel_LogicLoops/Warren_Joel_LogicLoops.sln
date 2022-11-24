@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warren_Joel_LogicLoops", "Warren_Joel_LogicLoops\Warren_Joel_LogicLoops.csproj", "{B2F0AF00-845F-4265-803A-E927CEBD2BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F0AF00-845F-4265-803A-E927CEBD2BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F0AF00-845F-4265-803A-E927CEBD2BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F0AF00-845F-4265-803A-E927CEBD2BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F0AF00-845F-4265-803A-E927CEBD2BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064F1D6B-B873-4B4C-806E-5966390C3811}
+	EndGlobalSection
+EndGlobal

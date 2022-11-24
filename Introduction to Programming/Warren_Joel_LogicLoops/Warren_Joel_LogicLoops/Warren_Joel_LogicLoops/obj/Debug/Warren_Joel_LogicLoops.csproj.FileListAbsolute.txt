@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\bin\Debug\Warren_Joel_LogicLoops.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\bin\Debug\Warren_Joel_LogicLoops.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\bin\Debug\Warren_Joel_LogicLoops.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\obj\Debug\Warren_Joel_LogicLoops.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\obj\Debug\Warren_Joel_LogicLoops.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\obj\Debug\Warren_Joel_LogicLoops.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_LogicLoops\Warren_Joel_LogicLoops\obj\Debug\Warren_Joel_LogicLoops.pdb
