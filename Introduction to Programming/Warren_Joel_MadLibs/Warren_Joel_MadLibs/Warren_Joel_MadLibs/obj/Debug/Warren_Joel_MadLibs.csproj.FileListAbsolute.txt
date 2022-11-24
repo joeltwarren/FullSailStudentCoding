@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\bin\Debug\Warren_Joel_MadLibs.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\bin\Debug\Warren_Joel_MadLibs.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\bin\Debug\Warren_Joel_MadLibs.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\obj\Debug\Warren_Joel_MadLibs.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\obj\Debug\Warren_Joel_MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\obj\Debug\Warren_Joel_MadLibs.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_MadLibs\Warren_Joel_MadLibs\obj\Debug\Warren_Joel_MadLibs.pdb
