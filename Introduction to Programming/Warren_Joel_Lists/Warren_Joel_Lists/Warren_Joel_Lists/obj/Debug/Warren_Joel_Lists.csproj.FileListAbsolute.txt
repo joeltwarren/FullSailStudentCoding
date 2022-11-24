@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\bin\Debug\Warren_Joel_Lists.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\bin\Debug\Warren_Joel_Lists.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\bin\Debug\Warren_Joel_Lists.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\obj\Debug\Warren_Joel_Lists.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\obj\Debug\Warren_Joel_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\obj\Debug\Warren_Joel_Lists.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_Lists\Warren_Joel_Lists\obj\Debug\Warren_Joel_Lists.pdb
