@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\bin\Debug\Warren_Joel_FindErrorsFunc.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\bin\Debug\Warren_Joel_FindErrorsFunc.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\bin\Debug\Warren_Joel_FindErrorsFunc.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\obj\Debug\Warren_Joel_FindErrorsFunc.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\obj\Debug\Warren_Joel_FindErrorsFunc.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\obj\Debug\Warren_Joel_FindErrorsFunc.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_FindErrorsFunc\Warren_Joel_FindErrorsFunc\obj\Debug\Warren_Joel_FindErrorsFunc.pdb
