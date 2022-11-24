@@ -1,0 +1,170 @@
+0. Item: Birds of Paradise was created.
+1. Item: Birds of Paradise was added to store inventory.
+2. Item: Viridian Shaman was created.
+3. Item: Viridian Shaman was added to store inventory.
+4. Item: Solemn Simulacrum was created.
+5. Item: Solemn Simulacrum was added to store inventory.
+6. Item: Sakura-Tribe Elder was created.
+7. Item: Sakura-Tribe Elder was added to store inventory.
+8. Item: Hearth Kami was created.
+9. Item: Hearth Kami was added to store inventory.
+10. Item: Eternal Witness was created.
+11. Item: Eternal Witness was added to store inventory.
+12. Item: Glissa Sunseeker was created.
+13. Item: Glissa Sunseeker was added to store inventory.
+14. Item: Kumano Master Yamabushi was created.
+15. Item: Kumano Master Yamabushi was added to store inventory.
+16. Item: Kiki-Jiki Mirror Breaker was created.
+17. Item: Kiki-Jiki Mirror Breaker was added to store inventory.
+18. Item: Keiga the Tide Star was created.
+19. Item: Keiga the Tide Star was added to store inventory.
+20. Item: Kodama of the North Tree was created.
+21. Item: Kodama of the North Tree was added to store inventory.
+22. Item: Time of Need was created.
+23. Item: Time of Need was added to store inventory.
+24. Item: Oxidize was created.
+25. Item: Oxidize was added to store inventory.
+26. Item: Magma Jet was created.
+27. Item: Magma Jet was added to store inventory.
+28. Item: Okina Temple to the Grandfathers was created.
+29. Item: Okina Temple to the Grandfathers was added to store inventory.
+30. Item: Forest was created.
+31. Item: Forest was added to store inventory.
+32. Item: Island was created.
+33. Item: Island was added to store inventory.
+34. Item: Mountain was created.
+35. Item: Mountain was added to store inventory.
+36. Item: Pinecrest Ridge was created.
+37. Item: Pinecrest Ridge was added to store inventory.
+38. Item: Shinka the Bloodsoaked Keep was created.
+39. Item: Shinka the Bloodsoaked Keep was added to store inventory.
+40. Item: Kumano Master Yamabushi was created.
+41. Item: Kumano Master Yamabushi was added to store inventory.
+42. Item: Kiki-Jiki Mirror Breaker was created.
+43. Item: Kiki-Jiki Mirror Breaker was added to store inventory.
+44. Item: Plow Under was created.
+45. Item: Plow Under was added to store inventory.
+46. Item: Fireball was created.
+47. Item: Fireball was added to store inventory.
+48. Item: Jugan the Rising Star was created.
+49. Item: Jugan the Rising Star was added to store inventory.
+50. Item: Myojin of Infinite Rage was created.
+51. Item: Myojin of Infinite Rage was added to store inventory.
+52. Item: Dosan the Falling Leaf was created.
+53. Item: Dosan the Falling Leaf was added to store inventory.
+54. Item: Naturalize was created.
+55. Item: Naturalize was added to store inventory.
+56. Item: Wood Elves was created.
+57. Item: Wood Elves was added to store inventory.
+58. Item: Viridian Shaman was created.
+59. Item: Viridian Shaman was added to store inventory.
+60. Item: Sakura-Tribe Elder was created.
+61. Item: Sakura-Tribe Elder was added to store inventory.
+62. Item: Solemn Simulacrum was created.
+63. Item: Solemn Simulacrum was added to store inventory.
+64. Item: Eternal Witness was created.
+65. Item: Eternal Witness was added to store inventory.
+66. Item: Rude Awakening was created.
+67. Item: Rude Awakening was added to store inventory.
+68. Item: Beacon of Creation was created.
+69. Item: Beacon of Creation was added to store inventory.
+70. Item: Wear Away was created.
+71. Item: Wear Away was added to store inventory.
+72. Item: Oxidize was created.
+73. Item: Oxidize was added to store inventory.
+74. Item: Chrome Mox was created.
+75. Item: Chrome Mox was added to store inventory.
+76. Item: Blasting Station was created.
+77. Item: Blasting Station was added to store inventory.
+78. Item: Fecundity was created.
+79. Item: Fecundity was added to store inventory.
+80. Item: Forest was created.
+81. Item: Forest was added to store inventory.
+82. Item: Okina Temple to the Grandfathers was created.
+83. Item: Okina Temple to the Grandfathers was added to store inventory.
+84. Item: Fecundity was created.
+85. Item: Fecundity was added to store inventory.
+86. Item: Naturalize was created.
+87. Item: Naturalize was added to store inventory.
+88. Item: Reap and Sow was created.
+89. Item: Reap and Sow was added to store inventory.
+90. Item: Creeping Mold was created.
+91. Item: Creeping Mold was added to store inventory.
+92. Item: Plow Under was created.
+93. Item: Plow Under was added to store inventory.
+94. Item: Triskelion was created.
+95. Item: Triskelion was added to store inventory.
+96. Item: Darksteel Colossus was created.
+97. Item: Darksteel Colossus was added to store inventory.
+98. Item: Eternal Witness was created.
+99. Item: Eternal Witness was added to store inventory.
+100. Item: Kiki-Jiki Mirror Breaker was created.
+101. Item: Kiki-Jiki Mirror Breaker was added to store inventory.
+102. Item: Mephidross Vampire was created.
+103. Item: Mephidross Vampire was added to store inventory.
+104. Item: Sakura-Tribe Elder was created.
+105. Item: Sakura-Tribe Elder was added to store inventory.
+106. Item: Solemn Simulacrum was created.
+107. Item: Solemn Simulacrum was added to store inventory.
+108. Item: Sundering Titan was created.
+109. Item: Sundering Titan was added to store inventory.
+110. Item: Viridian Shaman was created.
+111. Item: Viridian Shaman was added to store inventory.
+112. Item: Reap and Sow was created.
+113. Item: Reap and Sow was added to store inventory.
+114. Item: Sylvan Scrying was created.
+115. Item: Sylvan Scrying was added to store inventory.
+116. Item: Tooth and Nail was created.
+117. Item: Tooth and Nail was added to store inventory.
+118. Item: Oxidize was created.
+119. Item: Oxidize was added to store inventory.
+120. Item: Oblivion Stone was created.
+121. Item: Oblivion Stone was added to store inventory.
+122. Item: Forest was created.
+123. Item: Forest was added to store inventory.
+124. Item: Mountain was created.
+125. Item: Mountain was added to store inventory.
+126. Item: Urza's Mine was created.
+127. Item: Urza's Mine was added to store inventory.
+128. Item: Urza's Power Plant was created.
+129. Item: Urza's Power Plant was added to store inventory.
+130. Item: Urza's Tower was created.
+131. Item: Urza's Tower was added to store inventory.
+132. Item: Viridian Shaman was created.
+133. Item: Viridian Shaman was added to store inventory.
+134. Item: Oblivion Stone was created.
+135. Item: Oblivion Stone was added to store inventory.
+136. Item: Boseiju Who Shelters All was created.
+137. Item: Boseiju Who Shelters All was added to store inventory.
+138. Item: Fireball was created.
+139. Item: Fireball was added to store inventory.
+140. Item: Blaze was created.
+141. Item: Blaze was added to store inventory.
+142. Item: Rude Awakening was created.
+143. Item: Rude Awakening was added to store inventory.
+144. Item: Duplicant was created.
+145. Item: Duplicant was added to store inventory.
+146. Item: Plow Under was created.
+147. Item: Plow Under was added to store inventory.
+148. Item: Stone Rain was created.
+149. Item: Stone Rain was added to store inventory.
+150. Customer: Joel was created.
+151. Customer Changed to Joel
+152. Item: Stone Rain was added to Joel's cart.
+153. Item: Stone Rain was removed from store inventory.
+154. Customer: Joel has checked out of the store.
+ Joel's carts Totals: $17.29.
+155. Customer: Leslie was created.
+156. Customer Changed to Leslie
+157. Item: Plow Under was added to Leslie's cart.
+158. Item: Plow Under was removed from store inventory.
+159. Item: Duplicant was added to Leslie's cart.
+160. Item: Duplicant was removed from store inventory.
+161. Item: Rude Awakening was added to Leslie's cart.
+162. Item: Rude Awakening was removed from store inventory.
+163. Item: Blaze was added to Leslie's cart.
+164. Item: Blaze was removed from store inventory.
+165. Item: Plow Under was removed from Leslie's cart.
+166. Item: Plow Under was added to store inventory.
+167. Customer: Leslie has checked out of the store.
+ Leslie's carts Totals: $141.12.

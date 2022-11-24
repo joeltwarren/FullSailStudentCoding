@@ -1,0 +1,75 @@
+Birds of Paradise,4.99
+Viridian Shaman,5.76
+Solemn Simulacrum,2.33
+Sakura-Tribe Elder,9.99
+Hearth Kami,12.33
+Eternal Witness,39.90
+Glissa Sunseeker,15.00
+Kumano Master Yamabushi,21.00
+Kiki-Jiki Mirror Breaker,51.12
+Keiga the Tide Star,12.33
+Kodama of the North Tree,14.66
+Time of Need,18.99
+Oxidize,22.99
+Magma Jet,10.11
+Okina Temple to the Grandfathers,14.55
+Forest,1.00
+Island,2.00
+Mountain,1.50
+Pinecrest Ridge,13.00
+Shinka the Bloodsoaked Keep,23.00
+Kumano Master Yamabushi,8.99
+Kiki-Jiki Mirror Breaker,3.99
+Plow Under,6.99
+Fireball,10.00
+Jugan the Rising Star,12.00
+Myojin of Infinite Rage,15.00
+Dosan the Falling Leaf,17.99
+Naturalize,22.89
+Wood Elves,4.56
+Viridian Shaman,7.12
+Sakura-Tribe Elder,9.52
+Solemn Simulacrum,34.80
+Eternal Witness,23.32
+Rude Awakening,14.44
+Beacon of Creation,15.99
+Wear Away,16.79
+Oxidize,18.77
+Chrome Mox,1.65
+Blasting Station,88.00
+Fecundity,100.00
+Forest,1.00
+Okina Temple to the Grandfathers,87.00
+Fecundity,145.00
+Naturalize,65.43
+Reap and Sow,89.25
+Creeping Mold,65.78
+Plow Under,86.44
+Triskelion,51.00
+Darksteel Colossus,67.12
+Eternal Witness,74.12
+Kiki-Jiki Mirror Breaker,0.99
+Mephidross Vampire,199.00
+Sakura-Tribe Elder,55.12
+Solemn Simulacrum,15.69
+Sundering Titan,99.00
+Viridian Shaman,55.00
+Reap and Sow,44.12
+Sylvan Scrying,10.88
+Tooth and Nail,33.90
+Oxidize,15.99
+Oblivion Stone,18.99
+Forest,.99
+Mountain,.49
+Urza's Mine,69.00
+Urza's Power Plant,39.99
+Urza's Tower,57.68
+Viridian Shaman,60.59
+Oblivion Stone,14.79
+Boseiju Who Shelters All,1.69
+Fireball,14.99
+Blaze,16.32
+Rude Awakening,77.71
+Duplicant,47.09
+Plow Under,55.00
+Stone Rain,17.29
