@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\bin\Debug\JoelWarren_CE_01.exe.config
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\bin\Debug\JoelWarren_CE_01.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\bin\Debug\JoelWarren_CE_01.pdb
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\obj\Debug\JoelWarren_CE_01.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\obj\Debug\JoelWarren_CE_01.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\obj\Debug\JoelWarren_CE_01.exe
+\\vmware-host\Shared Folders\Desktop\dvp1-jtwwolf\Advanced Database Structures\2nd Try Advanced Database Structures Online\JoelWarren_CE_01\JoelWarren_CE_01\obj\Debug\JoelWarren_CE_01.pdb
