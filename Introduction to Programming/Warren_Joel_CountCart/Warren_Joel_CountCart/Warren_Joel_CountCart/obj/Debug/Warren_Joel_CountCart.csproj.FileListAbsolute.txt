@@ -1,0 +1,7 @@
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\bin\Debug\Warren_Joel_CountCart.exe.config
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\bin\Debug\Warren_Joel_CountCart.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\bin\Debug\Warren_Joel_CountCart.pdb
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\obj\Debug\Warren_Joel_CountCart.csprojResolveAssemblyReference.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\obj\Debug\Warren_Joel_CountCart.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\obj\Debug\Warren_Joel_CountCart.exe
+C:\Users\Joel Warren\source\repos\Warren_Joel_CountCart\Warren_Joel_CountCart\obj\Debug\Warren_Joel_CountCart.pdb
